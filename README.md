@@ -56,6 +56,12 @@ npm run build
 npm run preview
 ```
 
+## User Interface Demo
+
+| Upload Screen | Chat Screen |
+|---|---|
+| ![Upload Screen](docs/UI-001.png) | ![Chat Screen](docs/UI-002.png) |
+
 ## Project Structure
 
 ```
